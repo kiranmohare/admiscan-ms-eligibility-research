@@ -1,0 +1,20 @@
+{
+  "name": "AdmiScan Master's Programme Eligibility Research",
+  "canonical": "https://admiscan.com/research/ms/strong-profile-not-enough",
+  "methodology": "https://admiscan.com/research/admiscan-research-standard",
+  "publisher": "AdmiScan Research",
+  "published": "2026-10-06",
+  "distributionTargets": {
+    "github": {
+      "status": "automation-ready",
+      "suggestedRepository": "admiscan-ms-eligibility-research"
+    },
+    "huggingFace": {
+      "status": "manual-publish-required-with-current-connector",
+      "suggestedDataset": "admiscan-ms-eligibility-research"
+    },
+    "linkedin": {
+      "status": "manual-or-windsor-when-write-connector-available"
+    }
+  }
+}

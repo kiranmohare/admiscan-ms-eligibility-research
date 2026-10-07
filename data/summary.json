@@ -1,0 +1,51 @@
+{
+  "title": "A Strong Profile Isn't Enough: What 4,000+ Master's Programmes Reveal About the Eligibility Rules Students Miss",
+  "publisher": "AdmiScan Research",
+  "datePublished": "2026-10-06",
+  "canonicalUrl": "https://admiscan.com/research/ms/strong-profile-not-enough",
+  "methodologyUrl": "https://admiscan.com/research/admiscan-research-standard",
+  "scope": {
+    "verifiedCatalogueReadyMastersProgrammes": 4009,
+    "classifiableUndergraduateBackgroundEvidence": 3759,
+    "countries": [
+      "USA",
+      "Germany",
+      "UK"
+    ]
+  },
+  "countries": [
+    {
+      "country": "USA",
+      "researchProgrammes": 2715,
+      "classifiableBackgrounds": 2587,
+      "explicitAnyDiscipline": 124,
+      "relatedRelevantField": 2362,
+      "explicitAnyDisciplineSharePct": 4.79,
+      "unknownSharePct": 4.71
+    },
+    {
+      "country": "Germany",
+      "researchProgrammes": 729,
+      "classifiableBackgrounds": 637,
+      "explicitAnyDiscipline": 7,
+      "relatedRelevantField": 586,
+      "explicitAnyDisciplineSharePct": 1.1,
+      "unknownSharePct": 12.62
+    },
+    {
+      "country": "UK",
+      "researchProgrammes": 565,
+      "classifiableBackgrounds": 535,
+      "explicitAnyDiscipline": 66,
+      "relatedRelevantField": 347,
+      "explicitAnyDisciplineSharePct": 12.34,
+      "unknownSharePct": 5.31
+    }
+  ],
+  "interpretationNotes": [
+    "Explicit any-discipline and related/relevant-field requirements are distinct evidence classes.",
+    "Unknown evidence remains unknown and is not interpreted as unrestricted eligibility.",
+    "The analysis does not estimate admission probability.",
+    "The research subset is not a census of every Master's programme in the three countries."
+  ]
+}

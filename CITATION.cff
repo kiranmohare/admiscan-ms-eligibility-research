@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these headline research figures, please cite the canonical AdmiScan Research report."
+title: "A Strong Profile Isn't Enough: What 4,000+ Master's Programmes Reveal About the Eligibility Rules Students Miss"
+type: dataset
+authors:
+  - family-names: "AdmiScan Research"
+date-released: 2026-10-06
+url: "https://admiscan.com/research/ms/strong-profile-not-enough"
+abstract: "Country-level summary statistics from AdmiScan's analysis of 4,009 verified, catalogue-ready Master's programmes across the USA, UK and Germany."
